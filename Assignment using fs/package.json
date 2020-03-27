@@ -1,0 +1,19 @@
+{
+  "name": "kjbjmn",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitSingh27/Team-Envision.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarshitSingh27/Team-Envision/issues"
+  },
+  "homepage": "https://github.com/HarshitSingh27/Team-Envision#readme",
+  "description": ""
+}
